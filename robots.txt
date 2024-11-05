@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxojuawa.github.io/IHM/sitemap_index.txt
+Sitemap: https://oxojuawa.github.io/Mpx/sitemap_index.txt
+Sitemap: https://oxojuawa.github.io/RnH/sitemap_index.txt
+Sitemap: https://oxojuawa.github.io/ayd/sitemap_index.txt
